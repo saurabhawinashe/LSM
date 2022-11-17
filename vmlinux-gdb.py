@@ -1,0 +1,1 @@
+/home/user/Saurabh_Security/linux-6.0.8/scripts/gdb/vmlinux-gdb.py

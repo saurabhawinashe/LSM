@@ -1,0 +1,8 @@
+config SECURITY_TEST_LSM
+	bool "TEST LSM support"
+	depends on SECURITY
+	default n
+	help
+		This selects the TEST LSM
+		
+		If you are unsure how to answer this question, answer N.
